@@ -1,10 +1,14 @@
- import React from 'react'
- 
- export default function App() {
-   return (
-     <div>
-       <h1>Swaraj Phalke</h1>
-     </div>
-   )
- }
- 
+import React from "react";
+import Navbar from "../src/component/Navbar";
+import Bio from "../src/component/Bio";
+import About from "./component/About";
+
+export default function App() {
+  return (
+    <div>
+      <Navbar />
+      <Bio />
+      <About />
+    </div>
+  );
+}
