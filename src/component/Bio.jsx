@@ -18,7 +18,7 @@ export default function Bio() {
             </p>
         </div>
         <div  >
-          <img className=' w-[420px] rounded-xl'  src='../src/assets/profile.jpg'/>
+          <img className=' w-[420px] rounded-xl'  src='../src/images/profile.jpg'/>
         </div>
       </div>
       <div className='flex items-center mt-28'>

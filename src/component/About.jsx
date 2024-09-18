@@ -6,7 +6,7 @@ export default function About() {
       <div className=" flex items-center gap-24 py-28 ps-36">
         <div className="relative">
           <img
-            src="../src/assets/laptop.jpg"
+            src="../src/images/laptop.jpg"
             className="rounded-3xl object-cover w-96 h-64"
           />
         </div>
