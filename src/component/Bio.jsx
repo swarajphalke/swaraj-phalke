@@ -40,10 +40,10 @@ export default function Bio() {
       <div className="hidden md:flex items-center mt-28">
         <p className="flex font-semibold items-center text-xl gap-8">
           Tech Stack &nbsp; &nbsp; &nbsp;|&nbsp;
-          <img src="public/images/icons.svg" alt="" />
-          <img src="public/images/icons-2.svg" alt="" />
-          <img src="public/images/icons-3.svg" alt="" />
-          <img src="public/images/icons-4.svg" alt="" />
+          <img src="/images/icons.svg" alt="" />
+          <img src="/images/icons-2.svg" alt="" />
+          <img src="/images/icons-3.svg" alt="" />
+          <img src="/images/icons-4.svg" alt="" />
         </p>
       </div>
 
@@ -52,7 +52,7 @@ export default function Bio() {
         <div className="flex justify-center">
           <img
             className=" w-[220px] rounded-xl"
-            src="public/images/profile.jpg"
+            src="/images/profile.jpg"
           />
         </div>
         <div className="text-center pt-9">
@@ -79,12 +79,12 @@ export default function Bio() {
           </p>
 
           <div className="flex justify-center gap-8 mt-12">
-            <img src="public/images/icons.svg" alt="" />
-            <img src="public/images/icons-2.svg" alt="" />
-            <img src="public/images/icons-3.svg" alt="" />
+            <img src="/images/icons.svg" alt="" />
+            <img src="/images/icons-2.svg" alt="" />
+            <img src="/images/icons-3.svg" alt="" />
           </div>
           <div className="flex justify-center gap-8 mt-8">
-            <img src="public/images/icons-4.svg" alt="" />
+            <img src="/images/icons-4.svg" alt="" />
           </div>
         </div>
       </div>
