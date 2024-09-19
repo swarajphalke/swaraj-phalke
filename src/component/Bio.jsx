@@ -33,7 +33,7 @@ export default function Bio() {
         <div>
           <img
             className=" w-[420px] rounded-xl"
-            src="public/images/profile.jpg"
+            src="/images/profile.jpg"
           />
         </div>
       </div>
