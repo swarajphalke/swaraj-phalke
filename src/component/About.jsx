@@ -6,7 +6,7 @@ export default function About() {
       <div className=" md:flex items-center px-3 pt-12 pb-12 md:gap-24 md:pt-16 md:pb-24 md:ps-36">
         <div className="relative">
           <img
-            src="public/images/laptop.jpg"
+            src="../public/images/laptop.jpg"
             className="rounded-3xl object-cover w-full h-64 md:w-96 md:h-64"
           />
         </div>
