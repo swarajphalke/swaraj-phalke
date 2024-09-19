@@ -38,9 +38,12 @@ export default function Bio() {
         </div>
       </div>
       <div className="hidden md:flex items-center mt-28">
-        <p className="font-semibold text-xl">
-          Tech Stack &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; HTML CSS JS TS React
-          Node Tail BS{" "}
+        <p className="flex font-semibold items-center text-xl gap-8">
+          Tech Stack &nbsp; &nbsp; &nbsp;|&nbsp;
+          <img src="../src/images/icons.svg" alt="" />
+          <img src="../src/images/icons-2.svg" alt="" />
+          <img src="../src/images/icons-3.svg" alt="" />
+          <img src="../src/images/icons-4.svg" alt="" />
         </p>
       </div>
 
