@@ -6,7 +6,7 @@ export default function Navbar() {
       <header>
         <nav className='flex items-center px-8 justify-between md:px-16 py-6 shadow-md'>
             <div>
-                <p className='text-purple-600 text-3xl font-bold cursor-pointer'>Swaraj.dev</p>
+                <p className='text-purple-600 text-2xl md:text-3xl font-bold cursor-pointer'>Swaraj.dev</p>
             </div>
             <div>
                 <ul className='hidden md:flex font-semibold text-xl gap-6'>

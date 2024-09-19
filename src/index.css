@@ -1,3 +1,24 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.project-image-container{
+    background-position: top;
+    background-size: cover;
+    overflow: hidden;
+    transition: 5s ease-in-out;
+    /* background-image: url(images/project-1.png); */
+}
+
+.project-0{
+    background-image: url(images/project-0.png);
+}
+.project-1{
+    background-image: url(images/project-1.png);
+}
+.project-2{
+    background-image: url(images/project-2.png);
+}
+.project-3{
+    background-image: url(images/project-3.png);
+}
