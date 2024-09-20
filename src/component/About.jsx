@@ -2,7 +2,7 @@ import React from "react";
 
 export default function About() {
   return (
-    <div className=" px-2 relative shadow-md shadow-black/10">
+    <div id="About" className=" px-2 relative shadow-md shadow-black/10">
       <div className=" md:flex items-center px-3 pt-12 pb-12 md:gap-24 md:pt-16 md:pb-24 md:ps-36">
         <div className="relative">
           <img

@@ -4,8 +4,8 @@ import { TbBrandGithub } from "react-icons/tb";
 
 export default function Projects() {
   return (
-    <div className="bg-gray-100 shadow-md">
-      <div className="flex flex-col gap-24 pt-12 md:pt-[100px] px-5">
+    <div id="Projects" className="bg-gray-100 shadow-md">
+      <div className="flex flex-col gap-12 md:gap-24 pt-12 pb-12 md:pb-20 md:pt-[100px] px-5">
         <div className="md:flex px-3 md:gap-12 w-full shadow-md bg-white rounded-xl">
           <div
             className="project-image-container project-0 my-3 w-full md:w-2/5 h-[220px] md:h-[325px] rounded-xl border border-gray-200 overflow-hidden 
@@ -198,14 +198,7 @@ export default function Projects() {
           </div>
         </div>
       </div>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
+       
     </div>
   );
 }

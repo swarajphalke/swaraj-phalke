@@ -4,7 +4,7 @@ import { RiGithubLine } from "react-icons/ri";
 
 export default function Bio() {
   return (
-    <div className=" bg-pink-50 shadow-md px-8 pt-14 pb-12 md:px-40 md:pt-28  md:pb-28">
+    <div id="Bio" className=" bg-pink-50 shadow-md px-8 pt-14 pb-12 md:px-40 md:pt-28  md:pb-28">
       {/* Medium Screen */}
       <div className="hidden md:flex  justify-between ">
         <div>
@@ -27,7 +27,7 @@ export default function Bio() {
             </a>
           </div>
           <p className="mt-4">
-            <a href="">Download Resume</a>
+            <a href="/public/resume/Swaraj_Phalke_Resume.pdf" target="_blank">Download Resume</a>
           </p>
         </div>
         <div>
