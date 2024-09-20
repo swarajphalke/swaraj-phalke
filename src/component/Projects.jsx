@@ -6,9 +6,12 @@ export default function Projects() {
   return (
     <div className="bg-gray-100 shadow-md">
       <div className="flex flex-col gap-24 pt-12 md:pt-[100px] px-5">
-        <div className="md:flex md:gap-12 w-full shadow-md bg-white rounded-xl">
-          <div className="project-image-container project-3 my-4 ms-4 w-[424px] md:w-2/5 h-[220px] md:h-[325px] rounded-xl border border-gray-200 overflow-hidden"></div>
-          <div className="px-4 pb-4 md:pt-9 md:pb-7">
+        <div className="md:flex px-3 md:gap-12 w-full shadow-md bg-white rounded-xl">
+          <div
+            className="project-image-container project-0 my-3 w-full md:w-2/5 h-[220px] md:h-[325px] rounded-xl border border-gray-200 overflow-hidden 
+          "
+          ></div>
+          <div className="px-2 pb-4 md:pt-9 md:pb-7">
             <h1 className="text-xl font-bold uppercase text-purple-600">
               Blog Website
             </h1>
@@ -51,9 +54,12 @@ export default function Projects() {
           </div>
         </div>
 
-        <div className="md:flex md:gap-12 w-full shadow-md bg-white rounded-xl">
-          <div className="project-image-container project-1 my-4 ms-4 w-[424px] md:w-2/5 h-[220px] md:h-[325px] rounded-xl border border-gray-200 overflow-hidden"></div>
-          <div className="px-4 pb-4 md:pt-9 md:pb-7">
+        <div className="md:flex px-3 md:gap-12 w-full shadow-md bg-white rounded-xl">
+          <div
+            className="project-image-container project-1 my-3 w-full md:w-2/5 h-[220px] md:h-[325px] rounded-xl border border-gray-200 overflow-hidden 
+          "
+          ></div>
+          <div className="px-2 pb-4 md:pt-9 md:pb-7">
             <h1 className="text-xl font-bold uppercase text-purple-600">
               Blog Website
             </h1>
@@ -96,9 +102,12 @@ export default function Projects() {
           </div>
         </div>
 
-        <div className="md:flex md:gap-12 w-full shadow-md bg-white rounded-xl">
-          <div className="project-image-container project-2 my-4 ms-4 w-[424px] md:w-2/5 h-[220px] md:h-[325px] rounded-xl border border-gray-200 overflow-hidden"></div>
-          <div className="px-4 pb-4 md:pt-9 md:pb-7">
+        <div className="md:flex px-3 md:gap-12 w-full shadow-md bg-white rounded-xl">
+          <div
+            className="project-image-container project-2 my-3 w-full md:w-2/5 h-[220px] md:h-[325px] rounded-xl border border-gray-200 overflow-hidden 
+          "
+          ></div>
+          <div className="px-2 pb-4 md:pt-9 md:pb-7">
             <h1 className="text-xl font-bold uppercase text-purple-600">
               Blog Website
             </h1>
@@ -141,9 +150,12 @@ export default function Projects() {
           </div>
         </div>
 
-        <div className="md:flex md:gap-12 w-full shadow-md bg-white rounded-xl">
-          <div className="project-image-container project-3 my-4 ms-4 w-[424px] md:w-2/5 h-[220px] md:h-[325px] rounded-xl border border-gray-200 overflow-hidden"></div>
-          <div className="px-4 pb-4 md:pt-9 md:pb-7">
+        <div className="md:flex px-3 md:gap-12 w-full shadow-md bg-white rounded-xl">
+          <div
+            className="project-image-container project-3 my-3 w-full md:w-2/5 h-[220px] md:h-[325px] rounded-xl border border-gray-200 overflow-hidden 
+          "
+          ></div>
+          <div className="px-2 pb-4 md:pt-9 md:pb-7">
             <h1 className="text-xl font-bold uppercase text-purple-600">
               Blog Website
             </h1>
@@ -186,7 +198,14 @@ export default function Projects() {
           </div>
         </div>
       </div>
-      <br /><br /><br /><br /><br /><br /><br /><br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
     </div>
   );
 }
