@@ -27,7 +27,7 @@ export default function Bio() {
             </a>
           </div>
           <p className="mt-4">
-            <a href="/public/resume/Swaraj_Phalke_Resume.pdf" target="_blank">Download Resume</a>
+            <a href="/resume/Swaraj_Phalke_Resume.pdf" target="_blank">Download Resume</a>
           </p>
         </div>
         <div>
