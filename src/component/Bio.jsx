@@ -4,7 +4,7 @@ import { RiGithubLine } from "react-icons/ri";
 
 export default function Bio() {
   return (
-    <div id="Bio" className=" bg-pink-50 shadow-md px-8 pt-14 pb-12 md:px-40 md:pt-28  md:pb-28">
+    <div id="Bio" className=" hero-bg shadow-md px-8 pt-14 pb-12 md:px-40 md:pt-28  md:pb-28">
       {/* Medium Screen */}
       <div className="hidden md:flex  justify-between ">
         <div>
