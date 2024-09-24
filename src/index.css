@@ -7,11 +7,10 @@
   background-size: cover;
   overflow: hidden;
   transition: 5s ease-in-out;
-  /* background-image: url(images/project-1.png); */
-}
+ }
 
 .project-0 {
-  background-image: url("/images/project-0.png");
+  background-image: url(/images/project-3.png);
 }
 .project-1 {
   background-image: url(/images/project-1.png);
@@ -28,21 +27,7 @@
   padding: 10px;
 }
 
-/* .my-bg{
-    background: linear-gradient(-45deg, #4158D0, #e560dc, #ffb374, #ef5f5f, #d840b6);
-    animation: bgc 12s ease infinite;
-}
-@keyframes bgc {
-    0%{
-        background-position:0% 50%;
-    }
-    50%{
-        background-position:100% 100%;
-    }
-    100%{
-        background-position:0% 50%;
-    }
-} */
+ 
 
 .hero-bg {
   animation: gradientShift 15s ease infinite;
@@ -60,3 +45,5 @@
     background-position: 0 0;
   }
 }
+
+ 
