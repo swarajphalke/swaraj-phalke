@@ -40,13 +40,15 @@ export default function Bio() {
         </div>
       </div>
       <div className="hidden md:flex items-center mt-28">
-        <p className="md:flex lg:flex font-semibold items-center text-xl gap-8">
+        <p className=" flex font-semibold items-center text-xl gap-8">
           Tech Stack &nbsp; &nbsp; &nbsp;|&nbsp;
+        </p>
+        <div className="">
           <img src="/images/icons.svg" alt="" />
           <img src="/images/icons-2.svg" alt="" />
           <img src="/images/icons-3.svg" alt="" />
           <img src="/images/icons-4.svg" alt="" />
-        </p>
+        </div>
       </div>
 
       {/* Small Screen */}
