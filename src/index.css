@@ -10,7 +10,8 @@
  }
 
 .project-0 {
-  background-image: url(/images/project-3.png);
+  /* background-image: url(/images/project-3.png); */
+  background-image: url(/images/coming-soon.avif);
 }
 .project-1 {
   background-image: url(/images/project-1.png);

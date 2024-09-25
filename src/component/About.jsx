@@ -22,8 +22,13 @@ export default function About() {
             Hey, my name is Swaraj, and I'm a Frontend Developer. <br /> My
             passion is to create and develop a clean UI/UX for <br /> my users.
           </p>
-          <p className="text-lg text-gray-600 mt-5">
-            My main stack currently is React in combination with <br />
+           
+          <p className=" md:hidden text-lg text-gray-600 mt-5 break-normal">
+            My main stack currently is Javacript and React in combination with 
+            Tailwind CSS and Bootstrap CSS.
+          </p>
+          <p className="hidden md:flex text-lg text-gray-600 mt-5 ">
+            My main stack currently is Javacript and React in combination with <br />
             Tailwind CSS and Bootstrap CSS.
           </p>
         </div>

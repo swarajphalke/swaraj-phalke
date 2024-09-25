@@ -6,7 +6,7 @@ export default function Bio() {
   return (
     <div
       id="Bio"
-      className=" hero-bg shadow-md px-8 pt-14 pb-12 md:px-40 md:pt-28  md:pb-28"
+      className=" hero-bg shadow-md px-8 pt-14 pb-12 md:px-40 md:pt-28  md:pb-24"
     >
       {/* Medium Screen */}
       <div className="hidden md:flex  justify-between ">
@@ -29,7 +29,7 @@ export default function Bio() {
               <RiGithubLine />
             </a>
           </div>
-          <p className="mt-6">
+          <p className="mt-9">
             <a href="/resume/Swaraj_Phalke_Resume.pdf" target="_blank" className="bg-slate-800 text-white text-[16px] py-2 px-3 rounded-md">
               Download Resume
             </a>
@@ -39,14 +39,17 @@ export default function Bio() {
           <img className=" w-[420px] rounded-xl" src="/images/profile.jpg" />
         </div>
       </div>
-      <div className="hidden md:flex items-center mt-28">
-        <p className="md:flex font-semibold items-center text-xl gap-8">
-          Tech Stack &nbsp; &nbsp; &nbsp;|&nbsp;
+      <div className="hidden md:flex items-center mt-24">
+        <div className="md:flex font-semibold items-center text-xl ">
+          Tech Stack &nbsp;&nbsp;<span>|</span>&nbsp;&nbsp;&nbsp;
+          
+        </div>
+        <div className="flex gap-8"> 
           <img src="/images/icons.svg" alt="" />
           <img src="/images/icons-2.svg" alt="" />
           <img src="/images/icons-3.svg" alt="" />
           <img src="/images/icons-4.svg" alt="" />
-        </p>
+        </div>
       </div>
 
       {/* Small Screen */}
