@@ -1,4 +1,3 @@
-import React from "react";
 export default function Navbar() {
   return (
     <div id="Navbar">
@@ -17,9 +16,8 @@ export default function Navbar() {
               <li className="hover:text-purple-600">Blog</li>
             </ul>
           </div>
-          <div className="md:hidden cursor-pointer">
-            
-          </div>
+          
+          <div className="md:hidden cursor-pointer"></div>
         </nav>
       </header>
     </div>

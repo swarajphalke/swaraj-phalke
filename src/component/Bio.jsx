@@ -58,7 +58,7 @@ export default function Bio() {
           <img className=" w-[220px] rounded-xl" src="/images/profile.jpg" />
         </div>
         <div className="text-center pt-9">
-          <p className="text-gray-800 text-3xl font-bold mt-3">
+          <p className="text-gray-800 text-3xl font-bold mt-3 ">
             Front-End React Developer
           </p>
           <p className="text-gray-600 mt-5 text-[18px] tracking-wide">
