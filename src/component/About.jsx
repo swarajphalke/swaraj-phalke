@@ -15,11 +15,11 @@ export default function About() {
             About Me
           </h1>
           <h2 className="font-bold text-[26px] md:2xl mt-3">
-            Front-end Developer <br />
+            Full Stack Web Developer <br />
             based in Pune, Maharashtra, India 📍
           </h2>
           <p className="text-lg text-gray-600 mt-5 tracking-normal">
-            Hey, my name is Swaraj, and I'm a Frontend Developer. <br /> My
+            Hey, my name is Swaraj, and I'm a Website Developer. <br /> My
             passion is to create and develop a clean UI/UX for <br /> my users.
           </p>
            
