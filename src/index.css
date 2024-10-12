@@ -15,12 +15,12 @@
 }
 .project-1 {
   background-image: url(/images/gemini-clone.png);
-}
+ }
 .project-2 {
-  background-image: url(/images/project-2.png);
+  background-image: url(/images/weather-forecasting.png);
 }
 .project-3 {
-  background-image: url(/images/project-3.png);
+  background-image: url(/images/tudo-list.png);
 }
 .custom-container {
   margin: 0 auto;
