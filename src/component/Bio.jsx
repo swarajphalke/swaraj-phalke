@@ -15,7 +15,7 @@ export default function Bio() {
             Front-End React Developer
           </p>
           <p className="text-gray-600 mt-6   text-xl tracking-wide">
-            Hi, I'm Swaraj Phalke. A passionate Front-end React Developer based
+            Hi, I'm Swaraj . A passionate Front-end React Developer based
             in Pune, India. 📍
           </p>
           <div className="flex gap-4 mt-5 ">
