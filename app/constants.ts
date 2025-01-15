@@ -23,8 +23,8 @@ export const ProjectsData = [
       "Features a dynamic UI with seamless integration of React and REST API for smooth user interaction.",
     ],
     links: {
-      live: "https://exclusive-store-beta.vercel.app",
-      github: "https://github.com/vikas-saini-7/exclusive-store",
+      live: "https://gemini-clone-xi-one.vercel.app/",
+      github: "https://github.com/swarajphalke/gemini-clone",
     },
     image: "exclusive-store.png",
   },

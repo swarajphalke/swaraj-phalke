@@ -26,7 +26,7 @@ export default function Skills() {
     },
     {
       title: "Databases",
-      skills: ["MongoDB"],
+      skills: ["MongoDB","MySQL"],
     },
     {
       title: "Hosting",
