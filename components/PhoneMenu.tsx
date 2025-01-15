@@ -17,9 +17,9 @@ const PhoneMenu: React.FC = () => {
         <Link className="hover:text-white/50" href="/contact">
           Contact
         </Link>
-        <Link className="hover:text-white/50" href="/">
+        {/* <Link className="hover:text-white/50" href="/">
           Certifications
-        </Link>
+        </Link> */}
       </ul>
     </div>
   );

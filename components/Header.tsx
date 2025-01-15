@@ -27,9 +27,9 @@ const Header: React.FC = () => {
         <Link className="hover:text-white/50" href="/contact">
           Contact
         </Link>
-        <Link className="hover:text-white/50" href="/">
+        {/* <Link className="hover:text-white/50" href="/">
           Certifications
-        </Link>
+        </Link> */}
       </ul>
 
       <div className="flex items-center font-bold md:hidden text-xl space-x-3">
