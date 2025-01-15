@@ -19,7 +19,7 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "Swaraj Phalke - Software Engineer",
   description:
-    "Vikas Saini - Software Engineer specializing in React.js and Tailwind CSS. Skilled in building responsive and clean UI/UX designs.",
+    "Swaraj Phalke - Software Engineer specializing in React.js and Tailwind CSS. Skilled in building responsive and clean UI/UX designs.",
 };
 
 export default function RootLayout({

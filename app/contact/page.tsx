@@ -13,7 +13,7 @@ const page: React.FC = () => {
           +91 8421646984
         </div>
         <div className="flex-1 flex items-center justify-start pl-6 md:pl-0 md:justify-center bg-gray-500/10 py-8 rounded-md">
-          LinkedIn
+           <a href="https://www.linkedin.com/in/swaraj-phalke-b5539b220/" target="_blank">LinkedIn</a>
         </div>
       </div>
       <section className=" text-gray-100 mt-8 pl-1">
