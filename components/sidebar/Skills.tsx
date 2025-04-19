@@ -18,6 +18,8 @@ export default function Skills() {
         "Material UI",
         "Redux",
         "Node.js",
+        "Express.js",
+        
         
         // "Next.js",
       ],
