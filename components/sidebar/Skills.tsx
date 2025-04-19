@@ -29,7 +29,7 @@ export default function Skills() {
     },
     {
       title: "Hosting",
-      skills: ["Vercel"],
+      skills: ["Vercel","Render"],
     },
   ];
 
