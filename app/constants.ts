@@ -22,8 +22,8 @@ export const ProjectsData = [
       // "Docker",
     ],
     description: [
-      "A Gemini Clone app built with React and REST APIs for real-time data management.",
-      "Features a dynamic UI with seamless integration of React and REST API for smooth user interaction.",
+      "Code Reviewer is an AI-powered web app where users can paste code.",
+      "It uses OpenAI GPT to generate instant feedback, suggest improvements, and identify bugs.",
     ],
     links: {
       live: "https://gemini-clone-xi-one.vercel.app/",
