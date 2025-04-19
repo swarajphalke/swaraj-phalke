@@ -19,6 +19,7 @@ export default function Skills() {
         "Redux",
         "Node.js",
         "Express.js",
+        "MongoDB",
         
         
         // "Next.js",
