@@ -17,6 +17,8 @@ export default function Skills() {
         "React",
         "Material UI",
         "Redux",
+        "Node.js",
+        
         // "Next.js",
       ],
     },
