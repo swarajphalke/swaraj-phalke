@@ -17,12 +17,6 @@ export default function Skills() {
         "React",
         "Material UI",
         "Redux",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "MySQL",
-        
-        // "Next.js",
       ],
     },
     {
