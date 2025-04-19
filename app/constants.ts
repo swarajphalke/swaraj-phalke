@@ -4,8 +4,10 @@ export const ProjectsData = [
     type: "Personal Project",
     name: "Code - Reviewer",
     tech: [
-      // "TypeScript",
+      "OpenAI",
       "NodeJS",
+      "ExpressJS",
+      "Axios",
       // "ExpressJS",
       // "PostgreSql",
       // "Prisma ORM",
@@ -16,6 +18,7 @@ export const ProjectsData = [
       // "Redux Toolkit",
       "Tailwind Css",
       "Responsive",
+      "Framer Motion",
       // "Docker",
     ],
     description: [
