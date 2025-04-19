@@ -29,7 +29,7 @@ export const ProjectsData = [
     image: "exclusive-store.png",
   },
   {
-    id: 5,
+    id: 2,
     type: "Personal Project",
     name: "Gemini - Clone",
     tech: [
@@ -58,7 +58,7 @@ export const ProjectsData = [
     image: "exclusive-store.png",
   },
   {
-    id: 1,
+    id: 3,
     type: "Personal Project",
     name: "Weather Forecasting App",
     tech: ["Rest Api", "ReactJS", "Material-ui"],
@@ -73,7 +73,7 @@ export const ProjectsData = [
     image: "elixir-ui.png",
   },
   {
-    id: 2,
+    id: 4,
     type: "Personal Project",
     name: "Lottery Game",
     tech: [
@@ -96,7 +96,7 @@ export const ProjectsData = [
     image: "code-collab.png",
   },
   {
-    id: 3,
+    id: 5,
     type: "Personal Project",
     name: "Todo List",
     tech: [
