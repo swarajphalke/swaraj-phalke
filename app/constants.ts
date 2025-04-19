@@ -125,7 +125,7 @@ export const ProjectsData = [
     image: "blog.png",
   },
   {
-    id: 4,
+    id: 6,
     type: "Personal Project",
     name: "Note Taking App",
     tech: [
