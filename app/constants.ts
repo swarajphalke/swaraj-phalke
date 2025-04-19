@@ -26,8 +26,8 @@ export const ProjectsData = [
       "It uses OpenAI GPT to generate instant feedback, suggest improvements, and identify bugs.",
     ],
     links: {
-      live: "https://gemini-clone-xi-one.vercel.app/",
-      github: "https://github.com/swarajphalke/gemini-clone",
+      live: "https://code-reviewer-hazel.vercel.app/",
+      github: "https://github.com/swarajphalke/Code-Reviewer",
     },
     image: "exclusive-store.png",
   },
