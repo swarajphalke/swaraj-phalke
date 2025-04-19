@@ -20,7 +20,7 @@ export default function Skills() {
         "Node.js",
         "Express.js",
         "MongoDB",
-        
+        "MySQL",
         
         // "Next.js",
       ],
