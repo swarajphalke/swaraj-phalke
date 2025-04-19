@@ -2,7 +2,7 @@ export const ProjectsData = [
   {
     id: 1,
     type: "Personal Project",
-    name: "Code",
+    name: "Code - Reviewer",
     tech: [
       // "TypeScript",
       "NodeJS",
