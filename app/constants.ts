@@ -1,6 +1,35 @@
 export const ProjectsData = [
   {
-    id: 100,
+    id: 1,
+    type: "Personal Project",
+    name: "Code",
+    tech: [
+      // "TypeScript",
+      "NodeJS",
+      // "ExpressJS",
+      // "PostgreSql",
+      // "Prisma ORM",
+      "REST Api",
+      "ReactJS",
+      // "NextJS",
+      // "Redux",
+      // "Redux Toolkit",
+      "Tailwind Css",
+      "Responsive",
+      // "Docker",
+    ],
+    description: [
+      "A Gemini Clone app built with React and REST APIs for real-time data management.",
+      "Features a dynamic UI with seamless integration of React and REST API for smooth user interaction.",
+    ],
+    links: {
+      live: "https://gemini-clone-xi-one.vercel.app/",
+      github: "https://github.com/swarajphalke/gemini-clone",
+    },
+    image: "exclusive-store.png",
+  },
+  {
+    id: 5,
     type: "Personal Project",
     name: "Gemini - Clone",
     tech: [
@@ -29,36 +58,7 @@ export const ProjectsData = [
     image: "exclusive-store.png",
   },
   {
-    id: 100,
-    type: "Personal Project",
-    name: "Gemini - Clone",
-    tech: [
-      // "TypeScript",
-      "NodeJS",
-      // "ExpressJS",
-      // "PostgreSql",
-      // "Prisma ORM",
-      "REST Api",
-      "ReactJS",
-      // "NextJS",
-      // "Redux",
-      // "Redux Toolkit",
-      "Tailwind Css",
-      "Responsive",
-      // "Docker",
-    ],
-    description: [
-      "A Gemini Clone app built with React and REST APIs for real-time data management.",
-      "Features a dynamic UI with seamless integration of React and REST API for smooth user interaction.",
-    ],
-    links: {
-      live: "https://gemini-clone-xi-one.vercel.app/",
-      github: "https://github.com/swarajphalke/gemini-clone",
-    },
-    image: "exclusive-store.png",
-  },
-  {
-    id: 0,
+    id: 1,
     type: "Personal Project",
     name: "Weather Forecasting App",
     tech: ["Rest Api", "ReactJS", "Material-ui"],
@@ -73,7 +73,7 @@ export const ProjectsData = [
     image: "elixir-ui.png",
   },
   {
-    id: 1,
+    id: 2,
     type: "Personal Project",
     name: "Lottery Game",
     tech: [
@@ -96,7 +96,7 @@ export const ProjectsData = [
     image: "code-collab.png",
   },
   {
-    id: 2,
+    id: 3,
     type: "Personal Project",
     name: "Todo List",
     tech: [
@@ -122,7 +122,7 @@ export const ProjectsData = [
     image: "blog.png",
   },
   {
-    id: 3,
+    id: 4,
     type: "Personal Project",
     name: "Note Taking App",
     tech: [
