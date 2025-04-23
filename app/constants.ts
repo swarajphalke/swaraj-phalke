@@ -29,7 +29,7 @@ export const ProjectsData = [
       live: "https://code-reviewer-hazel.vercel.app/",
       github: "https://github.com/swarajphalke/Code-Reviewer",
     },
-    image: "Red Bold Finance YouTube Thumbnail:1.png",
+    image: "swaraj.png",
   },
   {
     id: 2,
