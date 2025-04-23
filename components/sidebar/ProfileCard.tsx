@@ -12,7 +12,7 @@ const ProfileCard: React.FC = () => {
         <p className="text-white/70 text-center">
           A passionate Full Stack Web Developer <br /> based in Satara, India. 📍
         </p>
-        <a href="/resume/Swaraj_Phalke_8421646984" target="_blank">
+        <a href="/resume/Swaraj_Phalke_Full_Stack_Resume.pdf" target="_blank">
           <button id="bottone1" className="text-black mt-4">
             <strong>Resume</strong>
           </button>
