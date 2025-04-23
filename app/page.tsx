@@ -5,8 +5,9 @@ import Skills from "@/components/sidebar/Skills";
 export default function Home() {
   return (
     <div>
-      <Hero />
       
+      <Hero />
+
       <Skills />
 
     </div>
