@@ -2,7 +2,7 @@ export const ProjectsData = [
   {
     id: 1,
     type: "Personal Project",
-    name: "Code - Reviewer",
+    name: "Code Reviewer - GPT",
     tech: [
       "OpenAI",
       "NodeJS",
@@ -29,7 +29,7 @@ export const ProjectsData = [
       live: "https://code-reviewer-hazel.vercel.app/",
       github: "https://github.com/swarajphalke/Code-Reviewer",
     },
-    image: "swaraj.png",
+    image: "code-reviewer-gpt.png",
   },
   {
     id: 2,
