@@ -73,7 +73,7 @@ export const ProjectsData = [
       live: "https://weather-app-brown-psi.vercel.app/",
       github: "https://github.com/swarajphalke/Weather-App",
     },
-    image: "elixir-ui.png",
+    image: "weather-forecasting-app.png",
   },
   {
     id: 4,
