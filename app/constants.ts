@@ -34,7 +34,7 @@ export const ProjectsData = [
   {
     id: 2,
     type: "Personal Project",
-    name: "Gemini - Clone",
+    name: "Gemini Clone - UI",
     tech: [
       // "TypeScript",
       "NodeJS",
@@ -58,7 +58,7 @@ export const ProjectsData = [
       live: "https://gemini-clone-xi-one.vercel.app/",
       github: "https://github.com/swarajphalke/gemini-clone",
     },
-    image: "exclusive-store.png",
+    image: "gemini-clone-ui.png",
   },
   {
     id: 3,
