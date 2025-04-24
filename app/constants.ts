@@ -96,7 +96,7 @@ export const ProjectsData = [
       live: "https://lottery-game-zeta.vercel.app/",
       github: "https://github.com/swarajphalke/Lottery-Game",
     },
-    image: "code-collab.png",
+    image: "lottery-game.png",
   },
   {
     id: 5,
