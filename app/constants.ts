@@ -143,6 +143,6 @@ export const ProjectsData = [
       live: "https://note-app-ruby-nu.vercel.app/",
       github: "https://github.com/swarajphalke/NOTE-APP",
     },
-    image: "mytribe.png",
+    image: "note-taking-app.png",
   },
 ];
