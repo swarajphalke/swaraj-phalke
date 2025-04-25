@@ -101,7 +101,7 @@ export const ProjectsData = [
   {
     id: 5,
     type: "Personal Project",
-    name: "Todo List",
+    name: "Todo List App",
     tech: [
       // "NextJS",
       // "Tailwind Css",
@@ -122,7 +122,7 @@ export const ProjectsData = [
       live: "https://tudo-list.vercel.app/",
       github: "https://github.com/swarajphalke/TudoList",
     },
-    image: "blog.png",
+    image: "todo-list-app.png",
   },
   {
     id: 6,
