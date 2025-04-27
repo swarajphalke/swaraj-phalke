@@ -15,8 +15,9 @@ export default function Skills() {
         "Bootstrap",
         // "Sass",
         "React",
+        "TypeScript",
         "Material UI",
-        "Redux",
+        // "Redux",
       ],
     },
     {
